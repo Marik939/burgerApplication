@@ -3,4 +3,14 @@
     color: #e22b68;
     height: 100px;
 }
+.col{
+    background-color: #e22b68;
+}
+.col-order-5{
+    background-color: aqua;
+}
+.col-order-1{
+    background-color: #fff700;
+
+}
 
